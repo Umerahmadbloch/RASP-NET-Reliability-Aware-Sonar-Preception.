@@ -24,3 +24,4 @@ Expected directory layout:
             └── instances_test.json
 
 Annotations follow COCO format.
+Complete code files will be avaliable after paper Publication, as well as on email request.
