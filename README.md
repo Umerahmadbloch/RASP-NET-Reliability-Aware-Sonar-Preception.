@@ -22,4 +22,4 @@ Expected directory layout:
             ├── instances_train.json
             ├── instances_val.json
             └── instances_test.json
-Complete code files will be avaliable after paper Publication, as well as on email request.
+Complete code files will be avaliable after paper publication, as well as on email request.
